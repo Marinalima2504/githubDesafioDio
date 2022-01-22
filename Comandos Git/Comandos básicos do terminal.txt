@@ -1,0 +1,9 @@
+Git Básico
+
+git init
+git clone
+git config user.name
+git add
+git commit -m ""
+git status
+git log
